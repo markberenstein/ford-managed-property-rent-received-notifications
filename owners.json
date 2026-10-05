@@ -1,0 +1,20 @@
+{
+  "owners": [
+    {
+      "greeting": "Steve & Jeanne",
+      "filename": "Text_Steve_and_Jeanne.txt",
+      "properties": [
+        {"name": "3233 Pierce Street", "label": "3233 Pierce"},
+        {"name": "3235 Pierce Street", "label": "3235 Pierce"},
+        {"name": "3708 Broderick St", "label": "3708 Broderick"}
+      ]
+    },
+    {
+      "greeting": "Ford",
+      "filename": "Text_Ford.txt",
+      "properties": [
+        {"name": "Church Street", "label": "Church Street"}
+      ]
+    }
+  ]
+}
